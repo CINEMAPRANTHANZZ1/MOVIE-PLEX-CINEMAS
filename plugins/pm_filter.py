@@ -689,9 +689,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[                        
-            InlineKeyboardButton('𝕌ℙ𝔻𝔸𝕋𝔼𝕊 ℂℍ𝔸ℕℕ𝔼𝕃', url='')
+            InlineKeyboardButton('𝕌ℙ𝔻𝔸𝕋𝔼𝕊 ℂℍ𝔸ℕℕ𝔼𝕃', url='https://t.me/NewRelease2')
             ],[                       
-            InlineKeyboardButton('𝕄𝔸𝕀ℕ 𝔾ℝ𝕆𝕌ℙ', url='https://t.me/POPCORN_SCOPE')
+            InlineKeyboardButton('𝕄𝔸𝕀ℕ 𝔾ℝ𝕆𝕌ℙ', url='https://t.me/MoviePlex_TG')
             ],[ 
             InlineKeyboardButton('𝔸𝔹𝕆𝕌𝕋', callback_data='about')
         ]]
