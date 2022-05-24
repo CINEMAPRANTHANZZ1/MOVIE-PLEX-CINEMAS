@@ -1,7 +1,6 @@
 {
-    "name": "PROFESSOR-BOT",
-    "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/2e2a07e86066538ed7406.jpg",
+    "name": "MOVIE PLEX BOT",
+    "logo": "https://telegra.ph/file/c5d77a732b506cd3e9cdc.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/CINEMAPRANTHANZZ1/MOVIE-PLEX-CINEMAS",
+    "repository": "https://github.com/CINEMAPRANTHANZZ1/MOVIE-PLEX-CINEMAS",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -88,7 +87,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "onnum cheyenda thazhekk pokko",
             "required": false
         },
         "IMDB": {
@@ -100,7 +99,7 @@
             "required": false  
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/Aadhi000/Ajax/issues/22",
+            "description": "choose b/w single or double buttons thazekk pokkoo",
             "value": "True",
             "required": false
         },
